@@ -67,13 +67,13 @@ Antes de iniciar a aplicação é necessário a instalação do banco de dados n
 
 - Rota ```/v1/agendas``` (método ```GET```): Retorna todos usários cadastrados na API
 
-- Rota ```/agendas/id``` (método ```GET```): Retorna um usário cadastrado na API baseado no ```id```
+- Rota ```v1/agendas/id``` (método ```GET```): Retorna um usário cadastrado na API baseado no ```id```
 
-- Rota ```/agendas``` (método ```POST```): Cria um cadastro de usuário na API
+- Rota ```v1/agendas``` (método ```POST```): Cria um cadastro de usuário na API
 
-- Rota ```/agendas/id``` (método ```PUT```): Atualiza um cadastro de usuário na API baseado no ```id```
+- Rota ```v1/agendas/id``` (método ```PUT```): Atualiza um cadastro de usuário na API baseado no ```id```
 
-- Rota ```/agendas/id``` (método ```DELETE```): Deleta um cadastro de usuário na API baseado no ```id```
+- Rota ```v1/agendas/id``` (método ```DELETE```): Deleta um cadastro de usuário na API baseado no ```id```
 
 ### Links úteis
 
