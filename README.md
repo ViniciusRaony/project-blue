@@ -42,7 +42,7 @@ Criação de um crude para gerenciamento de cadastro de uma agenda.
   ```acesse http://localhost:5173/``` 
   
   
-  ## 💻 Como executar o Back
+ ## 💻 Como executar o Backend
 
 Antes de iniciar a aplicação é necessário a instalação do banco de dados no SQL Server e alteração das credenciais de acesso User ID=<seu id>;Password=<sua senha> no arquivo BlueDbContext.cs.
 
