@@ -29,7 +29,7 @@ Criação de um crude para gerenciamento de cadastro de uma agenda.
 
   ```cd projeto-blue/frontend```
 
-- Instale as dependências:
+- Instale o gerenciador de pacotes do Node:
 
   ```$ npm install```
 
@@ -58,7 +58,7 @@ Antes de iniciar a aplicação é necessário a instalação do banco de dados n
 
   ```$ dotnet run```
 
-- URL aplicação:
+- URL local da aplicação:
 
   ```acesse http://localhost:5236/```
 
