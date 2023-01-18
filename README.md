@@ -77,14 +77,5 @@ Antes de iniciar a aplicação é necessário a instalação do banco de dados n
 
 ### Links úteis
 
-- [Documentação Flask: https://flask.palletsprojects.com ](https://flask.palletsprojects.com)
-- [Documentação SQLAlchemy: https://flask-sqlalchemy.palletsprojects.com/en/2.x/](https://flask-sqlalchemy.palletsprojects.com/en/2.x/)
+- [Documentação Vue3: https://vuejs.org/guide/introduction.html) ](https://vuejs.org/guide/introduction.html)
 
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com)
-
-É bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
-
-Qualquer banco de dados com compatibilidade com o [SQLAchelmy](https://sqlalchemy.org/) pode ser utilizado.
