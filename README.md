@@ -65,7 +65,7 @@ Antes de iniciar a aplicação é necessário a instalação do banco de dados n
 
 ## 🚉 Rotas da API
 
-- Rota ```/v1/agendas``` (método ```GET```): Retorna todos usários cadastrados na API
+- Rota ```v1/agendas``` (método ```GET```): Retorna todos usários cadastrados na API
 
 - Rota ```v1/agendas/id``` (método ```GET```): Retorna um usário cadastrado na API baseado no ```id```
 
