@@ -9,7 +9,7 @@ namespace Blue.Data
         public DbSet<Agenda> Agendas { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
-            => options.UseSqlServer("Server=localhost,1433;Database=Blue;User ID=sa;Password=wsx@123; TrustServerCertificate=True");
+            => options.UseSqlServer("Server=localhost,1433;Database=Blue;User ID=sa;Password=root; TrustServerCertificate=True");
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
