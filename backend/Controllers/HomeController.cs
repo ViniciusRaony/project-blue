@@ -10,9 +10,9 @@ namespace Blue.Controllers
         public IActionResult Get()
         {
             return Ok();
-            /*return Ok(new    // Pode retorna versão da API, por exemplo. Transforma para JSON
+            /*return Ok(new    // Retorno versão da API (JSON)
             {
-                fruta = "banana"
+                fruta = "v.1.0"
             });*/
         }
     }
